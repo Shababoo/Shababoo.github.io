@@ -1,0 +1,42 @@
+.shapka {
+	background-color: #454545;
+	text-align: center;
+	color: red;
+}
+nav {
+	background-color: purple;
+	color: black;
+}
+.menu {
+	color: white;
+	font-size: 30px;
+}
+div {
+	height: 500;
+	text-align: center;
+	background-image: url(../img/spisok-1.jpg);
+	background-size: 300px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+body {
+	background-color: green;
+}
+footer {
+	background-color: #454045;
+	color: orange;
+}
+.page {
+	color: yellow;
+}
+.tovary {
+	width: 300px;
+}
+ul {
+	color: red;
+	font-size: 30px;
+}
+.i-m {
+	background-image: url(../img/pattern1.png);
+	color: white;
+}
